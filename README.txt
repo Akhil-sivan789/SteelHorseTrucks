@@ -53,7 +53,7 @@ README
 11:26:12 victor A new update was made to GitHub, and a new push was performed.
 2025-03-05
 
-00:34:12 Akhil - README file updated with the latest changes and progress.
+00:34:12 Akhil - README file updated with the latest changes and progresses.
 
 login:delta@deltateam.com
 password:Abc123456!
